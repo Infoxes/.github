@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="INFOXES" width="100%" />
+  <img src="./banner.svg" alt="INFOXES" width="100%" />
 </div>
 
 <br />
@@ -58,7 +58,7 @@ Sin humo. Con criterio. Con gente que se queda cuando las cosas se ponen serias.
 
 <div align="center">
 
-<img src="./assets/infoxes-mark.svg" alt="IX" height="48" />
+<img src="./infoxes-mark.svg" alt="IX" height="48" />
 
 <br /><br />
 
@@ -75,7 +75,7 @@ Sin humo. Con criterio. Con gente que se queda cuando las cosas se ponen serias.
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="INFOXES" width="100%" />
+  <img src="./banner.svg" alt="INFOXES" width="100%" />
 </div>
 
 <br />
@@ -129,7 +129,7 @@ Sin humo. Con criterio. Con gente que se queda cuando las cosas se ponen serias.
 
 <div align="center">
 
-<img src="./assets/infoxes-mark.svg" alt="IX" height="48" />
+<img src="./infoxes-mark.svg" alt="IX" height="48" />
 
 <br /><br />
 
