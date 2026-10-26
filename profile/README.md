@@ -1,142 +1,51 @@
-<!--
-  Perfil de organización GitHub
-  Repo: Infoxes/.github  →  profile/README.md
--->
-
 <div align="center">
   <img src="./banner.svg" alt="INFOXES" width="100%" />
 </div>
 
 <br />
 
-<div align="center">
+<p align="center">
+  <b>INFOXES Development Projects</b><br />
+  Software, sistemas y redes · A Coruña, Galicia<br />
+  <sub>Desde 2004</sub>
+</p>
 
-### Tecnología con oficio, desde A Coruña
-
-Construimos software, sistemas y redes que aguantan el día a día real.<br />
-Sin humo. Con criterio. Con gente que se queda cuando las cosas se ponen serias.
-
-<br />
-
-`20+ años` &nbsp;·&nbsp; `A Coruña, Galicia` &nbsp;·&nbsp; `ES`
-
-</div>
-
----
-
-### Principios
-
-```text
-01  Código que se entiende mañana
-02  Infraestructura que no despierta a las 3
-03  Productos que resuelven, no que impresionan
-04  Un interlocutor técnico — cero laberintos
-```
+<p align="center">
+  <a href="https://www.ixestion.com">Web</a>
+  ·
+  <a href="mailto:info@ixestion.com">info@ixestion.com</a>
+</p>
 
 ---
 
-### En este espacio
+### Qué hacemos
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Productos</h3>
-      <p>Línea <strong>INFO*</strong>: herramientas de gestión pensadas para equipos reales.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Ingeniería</h3>
-      <p>Desarrollo a medida, sistemas, redes y web — del análisis al mantenimiento.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Craft</h3>
-      <p>Repos, prototipos y utilidades internas. Lo que usamos para trabajar mejor.</p>
-    </td>
-  </tr>
-</table>
+- Desarrollo de software a medida y productos propios
+- Sistemas, redes e infraestructura
+- Web y digitalización para empresas y centros educativos
+
+### Tecnologías
+
+<p align="center">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 <div align="center">
-
-<img src="./infoxes-mark.svg" alt="IX" height="48" />
-
-<br /><br />
-
-**INFOXES** — Development Projects
-
-<br />
-
-<sub>Hecho en Galicia · Con Sen tipográfica y sin atajos</sub>
-
-</div>
-<!--
-  Perfil de organización GitHub
-  Repo: Infoxes/.github  →  profile/README.md
--->
-
-<div align="center">
-  <img src="./banner.svg" alt="INFOXES" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-
-### Tecnología con oficio, desde A Coruña
-
-Construimos software, sistemas y redes que aguantan el día a día real.<br />
-Sin humo. Con criterio. Con gente que se queda cuando las cosas se ponen serias.
-
-<br />
-
-`20+ años` &nbsp;·&nbsp; `A Coruña, Galicia` &nbsp;·&nbsp; `ES`
-
-</div>
-
----
-
-### Principios
-
-```text
-01  Código que se entiende mañana
-02  Infraestructura que no despierta a las 3
-03  Productos que resuelven, no que impresionan
-04  Un interlocutor técnico — cero laberintos
-```
-
----
-
-### En este espacio
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Productos</h3>
-      <p>Línea <strong>INFO*</strong>: herramientas de gestión pensadas para equipos reales.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Ingeniería</h3>
-      <p>Desarrollo a medida, sistemas, redes y web — del análisis al mantenimiento.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Craft</h3>
-      <p>Repos, prototipos y utilidades internas. Lo que usamos para trabajar mejor.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="./infoxes-mark.svg" alt="IX" height="48" />
-
-<br /><br />
-
-**INFOXES** — Development Projects
-
-<br />
-
-<sub>Hecho en Galicia · Con Sen tipográfica y sin atajos</sub>
-
+  <img src="./infoxes-mark-white.svg" alt="IX" height="40" />
+  <br /><br />
+  <sub>A Coruña · Galicia · ES</sub>
 </div>
