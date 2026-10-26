@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="INFOXES">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c1222"/>
+      <stop offset="55%" stop-color="#17233F"/>
+      <stop offset="100%" stop-color="#0f1a2e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0.2" y1="0" x2="0.9" y2="1">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <circle cx="1040" cy="80" r="220" fill="url(#glow)"/>
+  <circle cx="180" cy="360" r="160" fill="#10B981" fill-opacity="0.08"/>
+
+  <!-- mark IX -->
+  <g transform="translate(470 118) scale(1.55)">
+    <g transform="translate(-424,-419)">
+      <path fill="#FFFFFF" d="m465.8 522h-20.3v-98.1h20.3zm17.2 0h-54.8v-17.6h54.8zm0-80.6h-54.8v-17.6h54.8z"/>
+      <path fill="#10B981" d="m522.7 522h-24.9l35.6-48.8-35.6-49.3h25.7l23.6 34.8 22.5-34.8h25.6l-35.7 49 35.7 49.1h-25.6l-23.8-33.8z"/>
+    </g>
+  </g>
+
+  <text x="640" y="340" text-anchor="middle" fill="#E8EEF7" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" letter-spacing="6">SOFTWARE � SISTEMAS � REDES</text>
+</svg>
